@@ -1,0 +1,131 @@
+.row_black{
+    height: 50px;
+    background-color: black;
+    color: white;
+    padding:10px;
+}
+.phonenumber{
+    padding:7px;
+    }
+.row_green{
+    margin-top: 2px;
+    height: 50px;
+    background-color: rgb(14, 177, 82);  
+    }
+.fab.fa-html5{
+    color:white;
+    margin-top:3px;
+    margin-left:253px;
+}
+.search-container{  
+    margin-right: 30px;
+    font-size:15px;
+    color:black;
+    }
+.display-4{
+    margin-top: 100px;
+    color:black;
+    font-size:40px;
+    text-shadow: rgb(250, 248, 248) 1px 1px 0, rgb(250, 248, 248) -1px -1px 0, 
+    rgb(250, 248, 248)-2px 1px 0, rgb(250, 248, 248) 2px -1px 0;
+}
+.jumbotron{
+    margin-top: 2px;
+    background-image: url(https://cdn.freelance.ru/img/portfolio/pics/00/30/79/3176767.jpg?mt=b59b655c);
+    background-size: 100%;
+    height: 400px;
+}
+#cart{
+    height: 300px;
+    width: 350px;
+}
+#about{
+    color:black;
+}
+#our{
+    margin-top:380px;
+    color:black;
+}
+.row_gallery1{
+    height: 200px;
+    display: flex;
+}
+.photoles{
+    width: 270px;
+}
+#ex1{
+    background:rgb(236, 247, 232);
+    margin-bottom: -10px;
+    border: 1px solid black;
+    font-size: 10px;
+}
+#check{
+    margin-left: 80px;
+    margin-top: 25px;
+}
+.row_grey{
+    height: 50px;
+    background-color: grey;
+    color:white;
+    margin-top: 300px;
+    padding-top: 15px;
+}
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}  
+#li {
+    padding-left: 1em;
+    text-indent: -1em;
+    margin-bottom:7px;
+    font-weight: bold;
+}  
+#li:before {
+    content: "⬥";
+    padding-right: 5px;
+}
+.nav{
+    padding:5px;
+    margin-left: 70px;
+    font-size: 15px;
+    display:flex;
+}
+.nav-item{
+    border-right: solid 1px white; 
+    margin-top: -5px;
+}
+.nav-link{
+    color:white;
+    line-height: 30px;
+}
+.nav-link.active{
+    border-left: solid 1px white;
+    line-height: 30px;
+}
+.card{
+    border:1px solid rgb(224, 219, 219);
+    width:192px;
+    background:white;
+    border-radius: 10px;
+} 
+.img{
+    border-radius: 10px 10px 0 0;
+}
+.card-title{
+    margin-left:15px;
+    color:black;
+}
+.card-text{
+    margin-left:15px;
+    color:black;
+    font-weight: bold;
+}
+.fas.fa-star{
+    position: absolute; 
+    padding: 10px; 
+    color:white;
+}
+.body{
+    font-family: Cosmic Sans MS;
+}
